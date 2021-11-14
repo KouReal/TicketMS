@@ -1,2 +1,3 @@
-# TicketMS
-使用sql server设计的车票管理系统数据库，界面和业务逻辑由java实现
+# TicketMS 学生大作业
+使用sql server设计的12306车票管理系统数据库，界面和业务逻辑由java实现,sql存储过程，触发器
+联系方式：vx:  cre2222
